@@ -1,2 +1,2 @@
 # releases
-GL Connect v0.8.7
+GL Connect v0.8.8
